@@ -1,4 +1,4 @@
-# 🔥 MLX90640 Thermal Visualizer  
+# 🔥 MLX90640 Thermal Visualizer  (MLX90640 열화상 시각화 프로그램)
 **Version:** v1.0  
 **Author:** HyunJong Ryoo (guswhd6656@naver.com)  
 **Last Updated:** 2025-11-04  
